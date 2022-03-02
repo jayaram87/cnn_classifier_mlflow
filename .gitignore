@@ -1,4 +1,8 @@
 env1/
 configs/secrets.yaml
-logs/*
-data/*
+logs/*.logs
+data/data.zip
+data/bad_data
+data/PetImages
+REPO_NAME.egg-info
+mlruns/

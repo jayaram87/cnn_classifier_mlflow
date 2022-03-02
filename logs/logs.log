@@ -1,0 +1,330 @@
+
+[2022-03-02 13:18:36,969: INFO: stage_1_get_data]: GET_DATA stage started
+[2022-03-02 13:18:36,971: INFO: common]: yaml file: configs/config.yaml has been loaded successfully
+[2022-03-02 13:18:36,971: INFO: common]: data directory created
+[2022-03-02 13:18:36,972: INFO: stage_1_get_data]: file downloading
+[2022-03-02 13:28:04,273: INFO: stage_1_get_data]: data\data.zip created with info Content-Type: application/octet-stream
+Accept-Ranges: bytes
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-blob-content-md5: l2WJyK3tt5/f2azyQ9eE8w==
+Last-Modified: Sat, 13 Oct 2018 12:14:22 GMT
+ETag: "0x8D6310568FD1DF6"
+Content-Length: 824894548
+Date: Wed, 02 Mar 2022 07:48:36 GMT
+Connection: close
+
+ 
+
+[2022-03-02 13:28:04,273: INFO: common]: data directory created
+[2022-03-02 13:28:04,273: INFO: common]: extraction started...
+[2022-03-02 13:28:28,317: INFO: common]: extracted data\data.zip to data
+[2022-03-02 13:28:28,324: INFO: common]: data\PetImages directory created
+[2022-03-02 13:28:28,324: INFO: common]: data\bad_data directory created
+[2022-03-02 13:28:28,446: INFO: data_mgmt]: data\PetImages\Cat\10073.jpg file not the correct format
+[2022-03-02 13:28:28,467: INFO: data_mgmt]: data\PetImages\Cat\10125.jpg file not the correct format
+[2022-03-02 13:28:28,959: INFO: data_mgmt]: data\PetImages\Cat\10404.jpg file not the correct format
+[2022-03-02 13:28:28,997: INFO: data_mgmt]: data\PetImages\Cat\10501.jpg file not the correct format
+[2022-03-02 13:28:29,149: INFO: data_mgmt]: data\PetImages\Cat\10820.jpg file not the correct format
+[2022-03-02 13:28:29,167: INFO: data_mgmt]: data\PetImages\Cat\10874.jpg file not the correct format
+[2022-03-02 13:28:29,235: INFO: data_mgmt]: data\PetImages\Cat\11083.jpg file not the correct format
+[2022-03-02 13:28:29,236: INFO: data_mgmt]: data\PetImages\Cat\11086.jpg file not the correct format
+[2022-03-02 13:28:29,239: INFO: data_mgmt]: data\PetImages\Cat\11091.jpg file not the correct format
+[2022-03-02 13:28:29,242: INFO: data_mgmt]: data\PetImages\Cat\11095.jpg file not the correct format
+[2022-03-02 13:28:29,284: INFO: data_mgmt]: data\PetImages\Cat\11196.jpg file not the correct format
+[2022-03-02 13:28:29,289: INFO: data_mgmt]: data\PetImages\Cat\11210.jpg file not the correct format
+[2022-03-02 13:28:29,349: INFO: data_mgmt]: data\PetImages\Cat\11397.jpg file not the correct format
+[2022-03-02 13:28:29,386: INFO: data_mgmt]: data\PetImages\Cat\1151.jpg file not the correct format
+[2022-03-02 13:28:29,404: INFO: data_mgmt]: data\PetImages\Cat\11565.jpg file not the correct format
+[2022-03-02 13:28:29,417: INFO: data_mgmt]: data\PetImages\Cat\11602.jpg file not the correct format
+[2022-03-02 13:28:29,461: INFO: data_mgmt]: data\PetImages\Cat\11729.jpg file not the correct format
+[2022-03-02 13:28:29,505: INFO: data_mgmt]: data\PetImages\Cat\11864.jpg file not the correct format
+[2022-03-02 13:28:29,509: INFO: data_mgmt]: data\PetImages\Cat\11874.jpg file not the correct format
+[2022-03-02 13:28:29,529: INFO: data_mgmt]: data\PetImages\Cat\11935.jpg file not the correct format
+[2022-03-02 13:28:29,598: INFO: data_mgmt]: data\PetImages\Cat\12080.jpg file not the correct format
+[2022-03-02 13:28:29,692: INFO: data_mgmt]: data\PetImages\Cat\12235.jpg file not the correct format
+[2022-03-02 13:28:29,707: INFO: data_mgmt]: data\PetImages\Cat\12269.jpg file not the correct format
+[2022-03-02 13:28:29,751: INFO: data_mgmt]: data\PetImages\Cat\12370.jpg file not the correct format
+[2022-03-02 13:28:29,806: INFO: data_mgmt]: data\PetImages\Cat\1267.jpg file not the correct format
+[2022-03-02 13:28:29,849: INFO: data_mgmt]: data\PetImages\Cat\1386.jpg file not the correct format
+[2022-03-02 13:28:29,855: INFO: data_mgmt]: data\PetImages\Cat\140.jpg file not the correct format
+[2022-03-02 13:28:29,881: INFO: data_mgmt]: data\PetImages\Cat\1476.jpg file not the correct format
+[2022-03-02 13:28:29,884: INFO: data_mgmt]: data\PetImages\Cat\1483.jpg file not the correct format
+[2022-03-02 13:28:29,985: INFO: data_mgmt]: data\PetImages\Cat\1757.jpg file not the correct format
+[2022-03-02 13:28:30,009: INFO: data_mgmt]: data\PetImages\Cat\1815.jpg file not the correct format
+[2022-03-02 13:28:30,046: INFO: data_mgmt]: data\PetImages\Cat\1914.jpg file not the correct format
+[2022-03-02 13:28:30,053: INFO: data_mgmt]: data\PetImages\Cat\1936.jpg file not the correct format
+[2022-03-02 13:28:30,053: INFO: data_mgmt]: data\PetImages\Cat\1937.jpg file not the correct format
+[2022-03-02 13:28:30,087: INFO: data_mgmt]: data\PetImages\Cat\2021.jpg file not the correct format
+[2022-03-02 13:28:30,121: INFO: data_mgmt]: data\PetImages\Cat\2101.jpg file not the correct format
+[2022-03-02 13:28:30,166: INFO: data_mgmt]: data\PetImages\Cat\2189.jpg file not the correct format
+[2022-03-02 13:28:30,226: INFO: data_mgmt]: data\PetImages\Cat\23.jpg file not the correct format
+[2022-03-02 13:28:30,479: INFO: data_mgmt]: data\PetImages\Cat\2569.jpg file not the correct format
+[2022-03-02 13:28:30,514: INFO: data_mgmt]: data\PetImages\Cat\2663.jpg file not the correct format
+[2022-03-02 13:28:30,542: INFO: data_mgmt]: data\PetImages\Cat\2742.jpg file not the correct format
+[2022-03-02 13:28:30,605: INFO: data_mgmt]: data\PetImages\Cat\2939.jpg file not the correct format
+[2022-03-02 13:28:30,654: INFO: data_mgmt]: data\PetImages\Cat\3089.jpg file not the correct format
+[2022-03-02 13:28:30,676: INFO: data_mgmt]: data\PetImages\Cat\3153.jpg file not the correct format
+[2022-03-02 13:28:30,678: INFO: data_mgmt]: data\PetImages\Cat\3161.jpg file not the correct format
+[2022-03-02 13:28:30,690: INFO: data_mgmt]: data\PetImages\Cat\3197.jpg file not the correct format
+[2022-03-02 13:28:30,735: INFO: data_mgmt]: data\PetImages\Cat\3300.jpg file not the correct format
+[2022-03-02 13:28:30,825: INFO: data_mgmt]: data\PetImages\Cat\3491.jpg file not the correct format
+[2022-03-02 13:28:30,906: INFO: data_mgmt]: data\PetImages\Cat\3649.jpg file not the correct format
+[2022-03-02 13:28:30,936: INFO: data_mgmt]: data\PetImages\Cat\3710.jpg file not the correct format
+[2022-03-02 13:28:31,002: INFO: data_mgmt]: data\PetImages\Cat\391.jpg file not the correct format
+[2022-03-02 13:28:31,020: INFO: data_mgmt]: data\PetImages\Cat\3967.jpg file not the correct format
+[2022-03-02 13:28:31,030: INFO: data_mgmt]: data\PetImages\Cat\4000.jpg file not the correct format
+[2022-03-02 13:28:31,078: INFO: data_mgmt]: data\PetImages\Cat\4165.jpg file not the correct format
+[2022-03-02 13:28:31,116: INFO: data_mgmt]: data\PetImages\Cat\4293.jpg file not the correct format
+[2022-03-02 13:28:31,125: INFO: data_mgmt]: data\PetImages\Cat\4322.jpg file not the correct format
+[2022-03-02 13:28:31,129: INFO: data_mgmt]: data\PetImages\Cat\4334.jpg file not the correct format
+[2022-03-02 13:28:31,135: INFO: data_mgmt]: data\PetImages\Cat\4351.jpg file not the correct format
+[2022-03-02 13:28:31,166: INFO: data_mgmt]: data\PetImages\Cat\445.jpg file not the correct format
+[2022-03-02 13:28:31,220: INFO: data_mgmt]: data\PetImages\Cat\4629.jpg file not the correct format
+[2022-03-02 13:28:31,260: INFO: data_mgmt]: data\PetImages\Cat\4750.jpg file not the correct format
+[2022-03-02 13:28:31,289: INFO: data_mgmt]: data\PetImages\Cat\4821.jpg file not the correct format
+[2022-03-02 13:28:31,293: INFO: data_mgmt]: data\PetImages\Cat\4833.jpg file not the correct format
+[2022-03-02 13:28:31,307: INFO: data_mgmt]: data\PetImages\Cat\4874.jpg file not the correct format
+[2022-03-02 13:28:31,325: INFO: data_mgmt]: data\PetImages\Cat\4929.jpg file not the correct format
+[2022-03-02 13:28:31,373: INFO: data_mgmt]: data\PetImages\Cat\5077.jpg file not the correct format
+[2022-03-02 13:28:31,378: INFO: data_mgmt]: data\PetImages\Cat\5089.jpg file not the correct format
+[2022-03-02 13:28:31,501: INFO: data_mgmt]: data\PetImages\Cat\5370.jpg file not the correct format
+[2022-03-02 13:28:31,591: INFO: data_mgmt]: data\PetImages\Cat\5553.jpg file not the correct format
+[2022-03-02 13:28:31,618: INFO: data_mgmt]: data\PetImages\Cat\5614.jpg file not the correct format
+[2022-03-02 13:28:31,643: INFO: data_mgmt]: data\PetImages\Cat\5686.jpg file not the correct format
+[2022-03-02 13:28:31,689: INFO: data_mgmt]: data\PetImages\Cat\5819.jpg file not the correct format
+[2022-03-02 13:28:31,755: INFO: data_mgmt]: data\PetImages\Cat\6029.jpg file not the correct format
+[2022-03-02 13:28:31,869: INFO: data_mgmt]: data\PetImages\Cat\6376.jpg file not the correct format
+[2022-03-02 13:28:31,890: INFO: data_mgmt]: data\PetImages\Cat\6435.jpg file not the correct format
+[2022-03-02 13:28:31,892: INFO: data_mgmt]: data\PetImages\Cat\6438.jpg file not the correct format
+[2022-03-02 13:28:31,912: INFO: data_mgmt]: data\PetImages\Cat\6486.jpg file not the correct format
+[2022-03-02 13:28:31,915: INFO: data_mgmt]: data\PetImages\Cat\6491.jpg file not the correct format
+[2022-03-02 13:28:32,033: INFO: data_mgmt]: data\PetImages\Cat\660.jpg file not the correct format
+[2022-03-02 13:28:32,058: INFO: data_mgmt]: data\PetImages\Cat\666.jpg not the right format
+[2022-03-02 13:28:32,059: INFO: data_mgmt]: data\PetImages\Cat\666.jpg file moved to data\bad_data\666.jpg
+[2022-03-02 13:28:32,059: ERROR: data_mgmt]: cannot identify image file 'data\\PetImages\\Cat\\666.jpg'
+Traceback (most recent call last):
+  File "d:\ineuron\live_classes\computer_vision\cnn_mlops\src\utils\data_mgmt.py", line 23, in validate_image
+    img = Image.open(img_path)
+  File "D:\ineuron\Live_classes\computer_vision\cnn_mlops\env1\lib\site-packages\PIL\Image.py", line 3009, in open
+    "cannot identify image file %r" % (filename if filename else fp)
+PIL.UnidentifiedImageError: cannot identify image file 'data\\PetImages\\Cat\\666.jpg'
+[2022-03-02 13:28:32,101: INFO: data_mgmt]: data\PetImages\Cat\6768.jpg file not the correct format
+[2022-03-02 13:28:32,157: INFO: data_mgmt]: data\PetImages\Cat\6900.jpg file not the correct format
+[2022-03-02 13:28:32,160: INFO: data_mgmt]: data\PetImages\Cat\6906.jpg file not the correct format
+[2022-03-02 13:28:32,192: INFO: data_mgmt]: data\PetImages\Cat\6980.jpg file not the correct format
+[2022-03-02 13:28:32,200: INFO: data_mgmt]: data\PetImages\Cat\7003.jpg file not the correct format
+[2022-03-02 13:28:32,330: INFO: data_mgmt]: data\PetImages\Cat\7245.jpg file not the correct format
+[2022-03-02 13:28:32,342: INFO: data_mgmt]: data\PetImages\Cat\7276.jpg file not the correct format
+[2022-03-02 13:28:32,413: INFO: data_mgmt]: data\PetImages\Cat\7441.jpg file not the correct format
+[2022-03-02 13:28:32,429: INFO: data_mgmt]: data\PetImages\Cat\7487.jpg file not the correct format
+[2022-03-02 13:28:32,435: INFO: data_mgmt]: data\PetImages\Cat\7502.jpg file not the correct format
+[2022-03-02 13:28:32,494: INFO: data_mgmt]: data\PetImages\Cat\7642.jpg file not the correct format
+[2022-03-02 13:28:32,498: INFO: data_mgmt]: data\PetImages\Cat\7647.jpg file not the correct format
+[2022-03-02 13:28:32,563: INFO: data_mgmt]: data\PetImages\Cat\780.jpg file not the correct format
+[2022-03-02 13:28:32,579: INFO: data_mgmt]: data\PetImages\Cat\7845.jpg file not the correct format
+[2022-03-02 13:28:32,630: INFO: data_mgmt]: data\PetImages\Cat\7968.jpg file not the correct format
+[2022-03-02 13:28:32,634: INFO: data_mgmt]: data\PetImages\Cat\7978.jpg file not the correct format
+[2022-03-02 13:28:32,661: INFO: data_mgmt]: data\PetImages\Cat\8054.jpg file not the correct format
+[2022-03-02 13:28:32,696: INFO: data_mgmt]: data\PetImages\Cat\8157.jpg file not the correct format
+[2022-03-02 13:28:32,704: INFO: data_mgmt]: data\PetImages\Cat\8183.jpg file not the correct format
+[2022-03-02 13:28:32,743: INFO: data_mgmt]: data\PetImages\Cat\8295.jpg file not the correct format
+[2022-03-02 13:28:32,759: INFO: data_mgmt]: data\PetImages\Cat\8335.jpg file not the correct format
+[2022-03-02 13:28:32,792: INFO: data_mgmt]: data\PetImages\Cat\8415.jpg file not the correct format
+[2022-03-02 13:28:32,825: INFO: data_mgmt]: data\PetImages\Cat\8470.jpg file not the correct format
+[2022-03-02 13:28:32,840: INFO: data_mgmt]: data\PetImages\Cat\850.jpg file not the correct format
+[2022-03-02 13:28:32,860: INFO: data_mgmt]: data\PetImages\Cat\8553.jpg file not the correct format
+[2022-03-02 13:28:32,967: INFO: data_mgmt]: data\PetImages\Cat\8832.jpg file not the correct format
+[2022-03-02 13:28:33,013: INFO: data_mgmt]: data\PetImages\Cat\8958.jpg file not the correct format
+[2022-03-02 13:28:33,074: INFO: data_mgmt]: data\PetImages\Cat\910.jpg file not the correct format
+[2022-03-02 13:28:33,075: INFO: data_mgmt]: data\PetImages\Cat\9100.jpg file not the correct format
+[2022-03-02 13:28:33,100: INFO: data_mgmt]: data\PetImages\Cat\9171.jpg file not the correct format
+[2022-03-02 13:28:33,114: INFO: data_mgmt]: data\PetImages\Cat\9208.jpg file not the correct format
+[2022-03-02 13:28:33,130: INFO: data_mgmt]: data\PetImages\Cat\925.jpg file not the correct format
+[2022-03-02 13:28:33,156: INFO: data_mgmt]: data\PetImages\Cat\9328.jpg file not the correct format
+[2022-03-02 13:28:33,168: INFO: data_mgmt]: data\PetImages\Cat\936.jpg file not the correct format
+[2022-03-02 13:28:33,169: INFO: data_mgmt]: data\PetImages\Cat\9361.jpg file not the correct format
+[2022-03-02 13:28:33,237: INFO: data_mgmt]: data\PetImages\Cat\9565.jpg file not the correct format
+[2022-03-02 13:28:33,255: INFO: data_mgmt]: data\PetImages\Cat\9619.jpg file not the correct format
+[2022-03-02 13:28:33,304: INFO: data_mgmt]: data\PetImages\Cat\9778.jpg file not the correct format
+[2022-03-02 13:28:33,370: INFO: data_mgmt]: data\PetImages\Cat\Thumbs.db not the right format
+[2022-03-02 13:28:33,371: INFO: data_mgmt]: data\PetImages\Cat\Thumbs.db file moved to data\bad_data\Thumbs.db
+[2022-03-02 13:28:33,371: ERROR: data_mgmt]: cannot identify image file 'data\\PetImages\\Cat\\Thumbs.db'
+Traceback (most recent call last):
+  File "d:\ineuron\live_classes\computer_vision\cnn_mlops\src\utils\data_mgmt.py", line 23, in validate_image
+    img = Image.open(img_path)
+  File "D:\ineuron\Live_classes\computer_vision\cnn_mlops\env1\lib\site-packages\PIL\Image.py", line 3009, in open
+    "cannot identify image file %r" % (filename if filename else fp)
+PIL.UnidentifiedImageError: cannot identify image file 'data\\PetImages\\Cat\\Thumbs.db'
+[2022-03-02 13:28:33,431: INFO: data_mgmt]: data\PetImages\Dog\10158.jpg file not the correct format
+[2022-03-02 13:28:33,433: INFO: data_mgmt]: data\PetImages\Dog\10163.jpg file not the correct format
+[2022-03-02 13:28:33,436: INFO: data_mgmt]: data\PetImages\Dog\1017.jpg file not the correct format
+[2022-03-02 13:28:33,438: INFO: data_mgmt]: data\PetImages\Dog\10173.jpg file not the correct format
+[2022-03-02 13:28:33,502: INFO: data_mgmt]: data\PetImages\Dog\10351.jpg file not the correct format
+[2022-03-02 13:28:33,503: INFO: data_mgmt]: data\PetImages\Dog\10353.jpg file not the correct format
+[2022-03-02 13:28:33,513: INFO: data_mgmt]: data\PetImages\Dog\10383.jpg file not the correct format
+[2022-03-02 13:28:33,523: INFO: data_mgmt]: data\PetImages\Dog\10401.jpg file not the correct format
+[2022-03-02 13:28:33,631: INFO: data_mgmt]: data\PetImages\Dog\10637.jpg file not the correct format
+[2022-03-02 13:28:33,646: INFO: data_mgmt]: data\PetImages\Dog\10678.jpg file not the correct format
+[2022-03-02 13:28:33,656: INFO: data_mgmt]: data\PetImages\Dog\10705.jpg file not the correct format
+[2022-03-02 13:28:33,666: INFO: data_mgmt]: data\PetImages\Dog\10726.jpg file not the correct format
+[2022-03-02 13:28:33,668: INFO: data_mgmt]: data\PetImages\Dog\10733.jpg file not the correct format
+[2022-03-02 13:28:33,676: INFO: data_mgmt]: data\PetImages\Dog\10745.jpg file not the correct format
+[2022-03-02 13:28:33,677: INFO: data_mgmt]: data\PetImages\Dog\10747.jpg file not the correct format
+[2022-03-02 13:28:33,697: INFO: data_mgmt]: data\PetImages\Dog\10797.jpg file not the correct format
+[2022-03-02 13:28:33,725: INFO: data_mgmt]: data\PetImages\Dog\10863.jpg file not the correct format
+[2022-03-02 13:28:33,743: INFO: data_mgmt]: data\PetImages\Dog\10907.jpg file not the correct format
+[2022-03-02 13:28:33,759: INFO: data_mgmt]: data\PetImages\Dog\10949.jpg file not the correct format
+[2022-03-02 13:28:33,770: INFO: data_mgmt]: data\PetImages\Dog\10969.jpg file not the correct format
+[2022-03-02 13:28:33,772: INFO: data_mgmt]: data\PetImages\Dog\10972.jpg file not the correct format
+[2022-03-02 13:28:33,841: INFO: data_mgmt]: data\PetImages\Dog\11166.jpg file not the correct format
+[2022-03-02 13:28:33,843: INFO: data_mgmt]: data\PetImages\Dog\1117.jpg file not the correct format
+[2022-03-02 13:28:33,864: INFO: data_mgmt]: data\PetImages\Dog\11233.jpg file not the correct format
+[2022-03-02 13:28:33,872: INFO: data_mgmt]: data\PetImages\Dog\11253.jpg file not the correct format
+[2022-03-02 13:28:33,889: INFO: data_mgmt]: data\PetImages\Dog\11285.jpg file not the correct format
+[2022-03-02 13:28:33,939: INFO: data_mgmt]: data\PetImages\Dog\11410.jpg file not the correct format
+[2022-03-02 13:28:34,000: INFO: data_mgmt]: data\PetImages\Dog\11560.jpg file not the correct format
+[2022-03-02 13:28:34,014: INFO: data_mgmt]: data\PetImages\Dog\11590.jpg file not the correct format
+[2022-03-02 13:28:34,045: INFO: data_mgmt]: data\PetImages\Dog\11675.jpg file not the correct format
+[2022-03-02 13:28:34,046: INFO: data_mgmt]: data\PetImages\Dog\1168.jpg file not the correct format
+[2022-03-02 13:28:34,051: INFO: data_mgmt]: data\PetImages\Dog\11692.jpg file not the correct format
+[2022-03-02 13:28:34,056: INFO: data_mgmt]: data\PetImages\Dog\11702.jpg not the right format
+[2022-03-02 13:28:34,056: INFO: data_mgmt]: data\PetImages\Dog\11702.jpg file moved to data\bad_data\11702.jpg
+[2022-03-02 13:28:34,057: ERROR: data_mgmt]: cannot identify image file 'data\\PetImages\\Dog\\11702.jpg'
+Traceback (most recent call last):
+  File "d:\ineuron\live_classes\computer_vision\cnn_mlops\src\utils\data_mgmt.py", line 23, in validate_image
+    img = Image.open(img_path)
+  File "D:\ineuron\Live_classes\computer_vision\cnn_mlops\env1\lib\site-packages\PIL\Image.py", line 3009, in open
+    "cannot identify image file %r" % (filename if filename else fp)
+PIL.UnidentifiedImageError: cannot identify image file 'data\\PetImages\\Dog\\11702.jpg'
+[2022-03-02 13:28:34,110: INFO: data_mgmt]: data\PetImages\Dog\11849.jpg file not the correct format
+[2022-03-02 13:28:34,112: INFO: data_mgmt]: data\PetImages\Dog\11853.jpg file not the correct format
+[2022-03-02 13:28:34,133: INFO: data_mgmt]: data\PetImages\Dog\11912.jpg file not the correct format
+[2022-03-02 13:28:34,216: INFO: data_mgmt]: data\PetImages\Dog\12102.jpg file not the correct format
+[2022-03-02 13:28:34,222: INFO: data_mgmt]: data\PetImages\Dog\12114.jpg file not the correct format
+[2022-03-02 13:28:34,295: INFO: data_mgmt]: data\PetImages\Dog\12289.jpg file not the correct format
+[2022-03-02 13:28:34,374: INFO: data_mgmt]: data\PetImages\Dog\1259.jpg file not the correct format
+[2022-03-02 13:28:34,393: INFO: data_mgmt]: data\PetImages\Dog\1308.jpg file not the correct format
+[2022-03-02 13:28:34,410: INFO: data_mgmt]: data\PetImages\Dog\1356.jpg file not the correct format
+[2022-03-02 13:28:34,547: INFO: data_mgmt]: data\PetImages\Dog\1773.jpg file not the correct format
+[2022-03-02 13:28:34,553: INFO: data_mgmt]: data\PetImages\Dog\1789.jpg file not the correct format
+[2022-03-02 13:28:34,584: INFO: data_mgmt]: data\PetImages\Dog\1866.jpg file not the correct format
+[2022-03-02 13:28:34,594: INFO: data_mgmt]: data\PetImages\Dog\1884.jpg file not the correct format
+[2022-03-02 13:28:34,600: INFO: data_mgmt]: data\PetImages\Dog\1900.jpg file not the correct format
+[2022-03-02 13:28:34,773: INFO: data_mgmt]: data\PetImages\Dog\2317.jpg file not the correct format
+[2022-03-02 13:28:34,782: INFO: data_mgmt]: data\PetImages\Dog\2339.jpg file not the correct format
+[2022-03-02 13:28:34,788: INFO: data_mgmt]: data\PetImages\Dog\2353.jpg file not the correct format
+[2022-03-02 13:28:34,799: INFO: data_mgmt]: data\PetImages\Dog\2384.jpg file not the correct format
+[2022-03-02 13:28:34,841: INFO: data_mgmt]: data\PetImages\Dog\2479.jpg file not the correct format
+[2022-03-02 13:28:34,850: INFO: data_mgmt]: data\PetImages\Dog\2494.jpg file not the correct format
+[2022-03-02 13:28:34,945: INFO: data_mgmt]: data\PetImages\Dog\2688.jpg file not the correct format
+[2022-03-02 13:28:35,023: INFO: data_mgmt]: data\PetImages\Dog\2877.jpg file not the correct format
+[2022-03-02 13:28:35,033: INFO: data_mgmt]: data\PetImages\Dog\2905.jpg file not the correct format
+[2022-03-02 13:28:35,038: INFO: data_mgmt]: data\PetImages\Dog\2915.jpg file not the correct format
+[2022-03-02 13:28:35,058: INFO: data_mgmt]: data\PetImages\Dog\296.jpg file not the correct format
+[2022-03-02 13:28:35,094: INFO: data_mgmt]: data\PetImages\Dog\3038.jpg file not the correct format
+[2022-03-02 13:28:35,137: INFO: data_mgmt]: data\PetImages\Dog\3136.jpg file not the correct format
+[2022-03-02 13:28:35,144: INFO: data_mgmt]: data\PetImages\Dog\3155.jpg file not the correct format
+[2022-03-02 13:28:35,189: INFO: data_mgmt]: data\PetImages\Dog\3252.jpg file not the correct format
+[2022-03-02 13:28:35,207: INFO: data_mgmt]: data\PetImages\Dog\3288.jpg file not the correct format
+[2022-03-02 13:28:35,221: INFO: data_mgmt]: data\PetImages\Dog\3320.jpg file not the correct format
+[2022-03-02 13:28:35,309: INFO: data_mgmt]: data\PetImages\Dog\3546.jpg file not the correct format
+[2022-03-02 13:28:35,324: INFO: data_mgmt]: data\PetImages\Dog\3588.jpg file not the correct format
+[2022-03-02 13:28:35,426: INFO: data_mgmt]: data\PetImages\Dog\3823.jpg file not the correct format
+[2022-03-02 13:28:35,460: INFO: data_mgmt]: data\PetImages\Dog\3885.jpg file not the correct format
+[2022-03-02 13:28:35,499: INFO: data_mgmt]: data\PetImages\Dog\3927.jpg file not the correct format
+[2022-03-02 13:28:35,603: INFO: data_mgmt]: data\PetImages\Dog\4086.jpg file not the correct format
+[2022-03-02 13:28:35,632: INFO: data_mgmt]: data\PetImages\Dog\4134.jpg file not the correct format
+[2022-03-02 13:28:35,636: INFO: data_mgmt]: data\PetImages\Dog\414.jpg file not the correct format
+[2022-03-02 13:28:35,718: INFO: data_mgmt]: data\PetImages\Dog\4203.jpg file not the correct format
+[2022-03-02 13:28:35,748: INFO: data_mgmt]: data\PetImages\Dog\4257.jpg file not the correct format
+[2022-03-02 13:28:35,776: INFO: data_mgmt]: data\PetImages\Dog\4301.jpg file not the correct format
+[2022-03-02 13:28:35,812: INFO: data_mgmt]: data\PetImages\Dog\4367.jpg file not the correct format
+[2022-03-02 13:28:35,949: INFO: data_mgmt]: data\PetImages\Dog\4515.jpg file not the correct format
+[2022-03-02 13:28:36,023: INFO: data_mgmt]: data\PetImages\Dog\4640.jpg file not the correct format
+[2022-03-02 13:28:36,031: INFO: data_mgmt]: data\PetImages\Dog\4654.jpg file not the correct format
+[2022-03-02 13:28:36,180: INFO: data_mgmt]: data\PetImages\Dog\4855.jpg file not the correct format
+[2022-03-02 13:28:36,225: INFO: data_mgmt]: data\PetImages\Dog\4924.jpg file not the correct format
+[2022-03-02 13:28:36,261: INFO: data_mgmt]: data\PetImages\Dog\50.jpg file not the correct format
+[2022-03-02 13:28:36,316: INFO: data_mgmt]: data\PetImages\Dog\5104.jpg file not the correct format
+[2022-03-02 13:28:36,376: INFO: data_mgmt]: data\PetImages\Dog\522.jpg file not the correct format
+[2022-03-02 13:28:36,388: INFO: data_mgmt]: data\PetImages\Dog\5243.jpg file not the correct format
+[2022-03-02 13:28:36,398: INFO: data_mgmt]: data\PetImages\Dog\5263.jpg file not the correct format
+[2022-03-02 13:28:36,485: INFO: data_mgmt]: data\PetImages\Dog\543.jpg file not the correct format
+[2022-03-02 13:28:36,544: INFO: data_mgmt]: data\PetImages\Dog\5547.jpg file not the correct format
+[2022-03-02 13:28:36,567: INFO: data_mgmt]: data\PetImages\Dog\5604.jpg file not the correct format
+[2022-03-02 13:28:36,570: INFO: data_mgmt]: data\PetImages\Dog\561.jpg file not the correct format
+[2022-03-02 13:28:36,573: INFO: data_mgmt]: data\PetImages\Dog\5618.jpg file not the correct format
+[2022-03-02 13:28:36,587: INFO: data_mgmt]: data\PetImages\Dog\565.jpg file not the correct format
+[2022-03-02 13:28:36,624: INFO: data_mgmt]: data\PetImages\Dog\573.jpg file not the correct format
+[2022-03-02 13:28:36,625: INFO: data_mgmt]: data\PetImages\Dog\5730.jpg file not the correct format
+[2022-03-02 13:28:36,628: INFO: data_mgmt]: data\PetImages\Dog\5736.jpg file not the correct format
+[2022-03-02 13:28:36,647: INFO: data_mgmt]: data\PetImages\Dog\5790.jpg file not the correct format
+[2022-03-02 13:28:36,652: INFO: data_mgmt]: data\PetImages\Dog\5797.jpg file not the correct format
+[2022-03-02 13:28:36,734: INFO: data_mgmt]: data\PetImages\Dog\5955.jpg file not the correct format
+[2022-03-02 13:28:36,773: INFO: data_mgmt]: data\PetImages\Dog\6032.jpg file not the correct format
+[2022-03-02 13:28:36,788: INFO: data_mgmt]: data\PetImages\Dog\6059.jpg file not the correct format
+[2022-03-02 13:28:36,800: INFO: data_mgmt]: data\PetImages\Dog\6086.jpg file not the correct format
+[2022-03-02 13:28:36,852: INFO: data_mgmt]: data\PetImages\Dog\6213.jpg file not the correct format
+[2022-03-02 13:28:36,861: INFO: data_mgmt]: data\PetImages\Dog\6238.jpg file not the correct format
+[2022-03-02 13:28:36,864: INFO: data_mgmt]: data\PetImages\Dog\6245.jpg file not the correct format
+[2022-03-02 13:28:36,899: INFO: data_mgmt]: data\PetImages\Dog\6305.jpg file not the correct format
+[2022-03-02 13:28:36,906: INFO: data_mgmt]: data\PetImages\Dog\6318.jpg file not the correct format
+[2022-03-02 13:28:36,950: INFO: data_mgmt]: data\PetImages\Dog\6430.jpg file not the correct format
+[2022-03-02 13:28:36,982: INFO: data_mgmt]: data\PetImages\Dog\6500.jpg file not the correct format
+[2022-03-02 13:28:36,984: INFO: data_mgmt]: data\PetImages\Dog\6503.jpg file not the correct format
+[2022-03-02 13:28:37,006: INFO: data_mgmt]: data\PetImages\Dog\6555.jpg file not the correct format
+[2022-03-02 13:28:37,040: INFO: data_mgmt]: data\PetImages\Dog\663.jpg file not the correct format
+[2022-03-02 13:28:37,078: INFO: data_mgmt]: data\PetImages\Dog\6718.jpg file not the correct format
+[2022-03-02 13:28:37,142: INFO: data_mgmt]: data\PetImages\Dog\6855.jpg file not the correct format
+[2022-03-02 13:28:37,166: INFO: data_mgmt]: data\PetImages\Dog\6904.jpg file not the correct format
+[2022-03-02 13:28:37,249: INFO: data_mgmt]: data\PetImages\Dog\7083.jpg file not the correct format
+[2022-03-02 13:28:37,261: INFO: data_mgmt]: data\PetImages\Dog\7112.jpg file not the correct format
+[2022-03-02 13:28:37,269: INFO: data_mgmt]: data\PetImages\Dog\7128.jpg file not the correct format
+[2022-03-02 13:28:37,273: INFO: data_mgmt]: data\PetImages\Dog\7133.jpg file not the correct format
+[2022-03-02 13:28:37,293: INFO: data_mgmt]: data\PetImages\Dog\719.jpg file not the correct format
+[2022-03-02 13:28:37,350: INFO: data_mgmt]: data\PetImages\Dog\7311.jpg file not the correct format
+[2022-03-02 13:28:37,374: INFO: data_mgmt]: data\PetImages\Dog\7369.jpg file not the correct format
+[2022-03-02 13:28:37,410: INFO: data_mgmt]: data\PetImages\Dog\7459.jpg file not the correct format
+[2022-03-02 13:28:37,454: INFO: data_mgmt]: data\PetImages\Dog\7496.jpg file not the correct format
+[2022-03-02 13:28:37,464: INFO: data_mgmt]: data\PetImages\Dog\7514.jpg file not the correct format
+[2022-03-02 13:28:37,595: INFO: data_mgmt]: data\PetImages\Dog\7652.jpg file not the correct format
+[2022-03-02 13:28:37,625: INFO: data_mgmt]: data\PetImages\Dog\7718.jpg file not the correct format
+[2022-03-02 13:28:37,630: INFO: data_mgmt]: data\PetImages\Dog\7729.jpg file not the correct format
+[2022-03-02 13:28:37,634: INFO: data_mgmt]: data\PetImages\Dog\7739.jpg file not the correct format
+[2022-03-02 13:28:37,637: INFO: data_mgmt]: data\PetImages\Dog\7743.jpg file not the correct format
+[2022-03-02 13:28:37,743: INFO: data_mgmt]: data\PetImages\Dog\7969.jpg file not the correct format
+[2022-03-02 13:28:37,752: INFO: data_mgmt]: data\PetImages\Dog\7989.jpg file not the correct format
+[2022-03-02 13:28:37,821: INFO: data_mgmt]: data\PetImages\Dog\8126.jpg file not the correct format
+[2022-03-02 13:28:37,857: INFO: data_mgmt]: data\PetImages\Dog\8194.jpg file not the correct format
+[2022-03-02 13:28:37,948: INFO: data_mgmt]: data\PetImages\Dog\8364.jpg file not the correct format
+[2022-03-02 13:28:38,017: INFO: data_mgmt]: data\PetImages\Dog\8521.jpg file not the correct format
+[2022-03-02 13:28:38,035: INFO: data_mgmt]: data\PetImages\Dog\8557.jpg file not the correct format
+[2022-03-02 13:28:38,038: INFO: data_mgmt]: data\PetImages\Dog\8563.jpg file not the correct format
+[2022-03-02 13:28:38,073: INFO: data_mgmt]: data\PetImages\Dog\8641.jpg file not the correct format
+[2022-03-02 13:28:38,095: INFO: data_mgmt]: data\PetImages\Dog\8693.jpg file not the correct format
+[2022-03-02 13:28:38,105: INFO: data_mgmt]: data\PetImages\Dog\8715.jpg file not the correct format
+[2022-03-02 13:28:38,112: INFO: data_mgmt]: data\PetImages\Dog\8730.jpg file not the correct format
+[2022-03-02 13:28:38,275: INFO: data_mgmt]: data\PetImages\Dog\9026.jpg file not the correct format
+[2022-03-02 13:28:38,284: INFO: data_mgmt]: data\PetImages\Dog\9043.jpg file not the correct format
+[2022-03-02 13:28:38,302: INFO: data_mgmt]: data\PetImages\Dog\9078.jpg file not the correct format
+[2022-03-02 13:28:38,455: INFO: data_mgmt]: data\PetImages\Dog\9145.jpg file not the correct format
+[2022-03-02 13:28:38,475: INFO: data_mgmt]: data\PetImages\Dog\9188.jpg file not the correct format
+[2022-03-02 13:28:38,593: INFO: data_mgmt]: data\PetImages\Dog\9367.jpg file not the correct format
+[2022-03-02 13:28:38,638: INFO: data_mgmt]: data\PetImages\Dog\9414.jpg file not the correct format
+[2022-03-02 13:28:38,684: INFO: data_mgmt]: data\PetImages\Dog\9500.jpg file not the correct format
+[2022-03-02 13:28:38,712: INFO: data_mgmt]: data\PetImages\Dog\9556.jpg file not the correct format
+[2022-03-02 13:28:38,758: INFO: data_mgmt]: data\PetImages\Dog\9640.jpg file not the correct format
+[2022-03-02 13:28:38,759: INFO: data_mgmt]: data\PetImages\Dog\9643.jpg file not the correct format
+[2022-03-02 13:28:38,855: INFO: data_mgmt]: data\PetImages\Dog\9851.jpg file not the correct format
+[2022-03-02 13:28:38,904: INFO: data_mgmt]: data\PetImages\Dog\9961.jpg file not the correct format
+[2022-03-02 13:28:38,907: INFO: data_mgmt]: data\PetImages\Dog\9967.jpg file not the correct format
+[2022-03-02 13:28:38,920: INFO: data_mgmt]: data\PetImages\Dog\Thumbs.db not the right format
+[2022-03-02 13:28:38,946: INFO: data_mgmt]: data\PetImages\Dog\Thumbs.db file moved to data\bad_data\Thumbs.db
+[2022-03-02 13:28:38,946: ERROR: data_mgmt]: cannot identify image file 'data\\PetImages\\Dog\\Thumbs.db'
+Traceback (most recent call last):
+  File "d:\ineuron\live_classes\computer_vision\cnn_mlops\src\utils\data_mgmt.py", line 23, in validate_image
+    img = Image.open(img_path)
+  File "D:\ineuron\Live_classes\computer_vision\cnn_mlops\env1\lib\site-packages\PIL\Image.py", line 3009, in open
+    "cannot identify image file %r" % (filename if filename else fp)
+PIL.UnidentifiedImageError: cannot identify image file 'data\\PetImages\\Dog\\Thumbs.db'
+[2022-03-02 13:28:38,946: INFO: stage_1_get_data]: GET_DATA stage completed

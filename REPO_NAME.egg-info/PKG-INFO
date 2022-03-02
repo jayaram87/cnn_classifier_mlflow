@@ -14,3 +14,7 @@ Description-Content-Type: text/markdown
 conda env1 export > conda.yaml
 ```
 
+```bash
+mlflow run . --no-conda
+```
+

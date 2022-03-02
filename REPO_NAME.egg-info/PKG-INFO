@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: REPO-NAME
+Version: 0.0.1
+Summary: sample MLFLOW CNN app
+Home-page: https://github.com/jayaram87/{REPO_Name}
+Author: Jay Raja
+Author-email: jayaramraja1987@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+```bash
+conda env1 export > conda.yaml
+```
+

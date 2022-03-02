@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+tqdm
+PyYAML
+mlflow
+pillow
+-e .
